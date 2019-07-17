@@ -1,7 +1,7 @@
 # Functional Reactive Programming for Angular Developers RxJs and Observables
 
 ## resources
-Here is a link to the [article][https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/]
+Here is a link to the [article](https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/)
 
 ## A new asynchronous programming concept - the stream.
 
